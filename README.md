@@ -1,5 +1,5 @@
 # coursera-machinelearning-python
-Skeleton code for the coursera machine learning course exercises, in the form of an ipython notebook.
+Skeleton code for the coursera machine learning course exercises, in the form of ipython notebooks.
 
 # What you will need to run this
 
